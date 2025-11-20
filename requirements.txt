@@ -1,6 +1,5 @@
 python-telegram-bot==22.5
 yt-dlp==2025.11.12
 instaloader==4.15
-# Bibliotecas de propósito geral (essenciais para Python)
 requests
 httpx
